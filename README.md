@@ -79,6 +79,69 @@ If you enjoy this plugin, consider supporting its development by:
 
 > ⚡ **Coinflip Plugin by ItzXgg**  
 > Flip your luck. Win big. Play fair.  
+> 🎲 Join the fun today on Discord → [discord.gg/jcB2hG6z](https://discord.gg/jcB2hG6z)🎨 **Sleek UI & Animations** – Immersive visuals and polished coinflip effects.  
+🔒 **Fair & Secure** – Server-verified outcomes ensure transparent results.  
+⚙️ **Easy Configuration** – Full control via the simple `config.yml` file.  
+🧩 **Plug-and-Play Setup** – No dependencies. No hassle. Instant fun.  
+
+---
+
+## 🧾 Commands & Permissions
+
+| Command | Description | Permission |
+|----------|--------------|-------------|
+| `/coinflip` | Opens the coinflip interface | `coinflip.use` |
+| `/coinflip create <amount>` | Create a new coinflip bet | `coinflip.create` |
+| `/coinflip join <player>` | Join an existing coinflip | `coinflip.join` |
+| `/coinflip reload` | Reload the plugin configuration | `coinflip.admin` |
+
+---
+
+## ⚙️ Configuration
+The plugin includes an easy-to-edit `config.yml` where you can adjust:
+- Chat messages, colors, and prefix  
+- Minimum and maximum bet values  
+- Animation timing and effects  
+- Sound and particle preferences  
+
+---
+
+## 🧱 Compatibility
+- **Minecraft Versions:** 1.16 — 1.21  
+- **Supported Software:** Spigot, Paper, Purpur  
+
+---
+
+## 🚀 Installation
+
+1. Download the latest `.jar` from the **[Releases](../../releases)** section.  
+2. Drop it into your server’s `/plugins` folder.  
+3. Restart or reload your server.  
+4. Adjust your configuration to your liking.  
+5. Start flipping coins and let the fun begin! 🎉  
+
+---
+
+## 👨‍💻 Developer Information
+
+**Author:** *ItzXgg*  
+**Discord:** [`yoboiblueeeee`](https://discord.gg/jcB2hG6z)  
+**GitHub:** [github.com/ItzXgg](https://github.com/ItzXgg)  
+**Plugin Type:** Custom Coinflip Plugin for Minecraft  
+
+---
+
+## 💖 Support & Community
+
+If you enjoy this plugin, consider supporting its development by:
+⭐ Starring the repository  
+💬 Joining the [Discord Server](https://discord.gg/jcB2hG6z)  
+📢 Sharing it with your Minecraft community  
+
+---
+
+> ⚡ **Coinflip Plugin by ItzXgg**  
+> Flip your luck. Win big. Play fair.  
 > 🎲 Join the fun today on Discord → [discord.gg/jcB2hG6z](https://discord.gg/jcB2hG6z)
 > 🧩 The latest `.jar` file will always be available under the **Releases** tab.
 
