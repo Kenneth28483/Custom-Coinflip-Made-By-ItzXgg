@@ -1,22 +1,85 @@
+![Coinflip Plugin Banner](A_2D_digital_graphic_banner_for_the_"Coinflip_Plug.png)
+
 # 🎲 Coinflip Plugin
-
-![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.16%2B-green.svg)
-![Made By](https://img.shields.io/badge/Made%20By-ItzXgg-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+### The Ultimate Coinflip Experience for Your Minecraft Server  
+*Developed with precision and passion by **ItzXgg***  
 
 ---
 
-### 💥 The Ultimate Coinflip Experience for Your Minecraft Server  
-Are you looking for a **fun, simple, and fully customizable Coinflip plugin** that brings excitement and competition to your players?  
-Look no further — introducing the **Coinflip Plugin by ItzXgg**!
+## 🪙 Overview
+Bring excitement and competition to your Minecraft server with the **Coinflip Plugin** — a lightweight, customizable, and lag-free betting system designed for simplicity and fun.  
+Players can challenge each other in coinflips, win rewards, and enjoy a smooth, fair experience every time.
 
 ---
 
-## 📥 Download
+## ✨ Key Features
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-blue?style=for-the-badge&logo=github)](https://github.com/Kenneth28483/Custom-Coinflip-Made-By-ItzXgg/releases/latest)
+✅ **Optimized Performance** – Designed for efficiency and zero lag on any server size.  
+💸 **Customizable Bets** – Configure bet limits, odds, and payout multipliers.  
+🎨 **Sleek UI & Animations** – Immersive visuals and polished coinflip effects.  
+🔒 **Fair & Secure** – Server-verified outcomes ensure transparent results.  
+⚙️ **Easy Configuration** – Full control via the simple `config.yml` file.  
+🧩 **Plug-and-Play Setup** – No dependencies. No hassle. Instant fun.  
 
+---
+
+## 🧾 Commands & Permissions
+
+| Command | Description | Permission |
+|----------|--------------|-------------|
+| `/coinflip` | Opens the coinflip interface | `coinflip.use` |
+| `/coinflip create <amount>` | Create a new coinflip bet | `coinflip.create` |
+| `/coinflip join <player>` | Join an existing coinflip | `coinflip.join` |
+| `/coinflip reload` | Reload the plugin configuration | `coinflip.admin` |
+
+---
+
+## ⚙️ Configuration
+The plugin includes an easy-to-edit `config.yml` where you can adjust:
+- Chat messages, colors, and prefix  
+- Minimum and maximum bet values  
+- Animation timing and effects  
+- Sound and particle preferences  
+
+---
+
+## 🧱 Compatibility
+- **Minecraft Versions:** 1.16 — 1.21  
+- **Supported Software:** Spigot, Paper, Purpur  
+
+---
+
+## 🚀 Installation
+
+1. Download the latest `.jar` from the **[Releases](../../releases)** section.  
+2. Drop it into your server’s `/plugins` folder.  
+3. Restart or reload your server.  
+4. Adjust your configuration to your liking.  
+5. Start flipping coins and let the fun begin! 🎉  
+
+---
+
+## 👨‍💻 Developer Information
+
+**Author:** *ItzXgg*  
+**Discord:** [`yoboiblueeeee`](https://discord.gg/jcB2hG6z)  
+**GitHub:** [github.com/ItzXgg](https://github.com/ItzXgg)  
+**Plugin Type:** Custom Coinflip Plugin for Minecraft  
+
+---
+
+## 💖 Support & Community
+
+If you enjoy this plugin, consider supporting its development by:
+⭐ Starring the repository  
+💬 Joining the [Discord Server](https://discord.gg/jcB2hG6z)  
+📢 Sharing it with your Minecraft community  
+
+---
+
+> ⚡ **Coinflip Plugin by ItzXgg**  
+> Flip your luck. Win big. Play fair.  
+> 🎲 Join the fun today on Discord → [discord.gg/jcB2hG6z](https://discord.gg/jcB2hG6z)
 > 🧩 The latest `.jar` file will always be available under the **Releases** tab.
 
 ---
